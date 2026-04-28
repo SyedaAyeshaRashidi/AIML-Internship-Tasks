@@ -27,7 +27,7 @@ To build an empathetic conversational agent using a fine-tuned LLM for providing
 Wikitext-2 (via Hugging Face Datasets), used for domain-specific language modeling and fine-tuning.
 
 ### Models/Techniques Applied
-Model: Microsoft DialoGPT-Medium (Conversational Transformer).
+### Model: Microsoft DialoGPT-Medium (Conversational Transformer).
 
 ### Architecture: Hybrid system combining Neural Sequence Generation with Heuristic Intent Mapping.
 
