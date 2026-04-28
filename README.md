@@ -34,6 +34,6 @@ Model: Microsoft DialoGPT-Medium (Conversational Transformer).
 ### Optimization: Fine-tuned using Hugging Face Trainer API with torch.no_grad() for fast inference.
 
 ### Key Results
--The bot successfully recognizes emotional states and responds with empathy.
--Hybrid logic (Intent Mapping) prevents repetitive or irrelevant AI-generated answers.
--Optimized generation parameters reduced latency for near-instant responses.
+- The bot successfully recognizes emotional states and responds with empathy.
+- Hybrid logic (Intent Mapping) prevents repetitive or irrelevant AI-generated answers.
+- Optimized generation parameters reduced latency for near-instant responses.
